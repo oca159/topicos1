@@ -1,0 +1,9 @@
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\bin\Debug\ProyEstudiantes.exe
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\bin\Debug\ProyEstudiantes.pdb
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\obj\x86\Debug\ProyEstudiantes.fEstudiantes.resources
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\obj\x86\Debug\ProyEstudiantes.Properties.Resources.resources
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\obj\x86\Debug\ProyEstudiantes.csproj.GenerateResource.Cache
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\obj\x86\Debug\ProyEstudiantes.exe
+c:\users\alfonso\documents\visual studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\obj\x86\Debug\ProyEstudiantes.pdb
+C:\Users\Alfonso\Documents\Visual Studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\obj\x86\Debug\ProyEstudiantes.Vista.VisualizarDatos.resources
+C:\Users\Alfonso\documents\visual studio 2010\Projects\ProyEstudiantes\ProyEstudiantes\obj\x86\Debug\ProyEstudiantes.csprojResolveAssemblyReference.cache
