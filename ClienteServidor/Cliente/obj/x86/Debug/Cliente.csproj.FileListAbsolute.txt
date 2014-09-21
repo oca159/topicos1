@@ -1,0 +1,4 @@
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication1\bin\Debug\Cliente.exe
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication1\bin\Debug\Cliente.pdb
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication1\obj\x86\Debug\Cliente.exe
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication1\obj\x86\Debug\Cliente.pdb
