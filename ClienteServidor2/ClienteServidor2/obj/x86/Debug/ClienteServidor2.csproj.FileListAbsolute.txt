@@ -1,0 +1,5 @@
+c:\users\oca15_000\documents\visual studio 2010\Projects\ClienteServidor2\ClienteServidor2\bin\Debug\ClienteServidor2.exe
+c:\users\oca15_000\documents\visual studio 2010\Projects\ClienteServidor2\ClienteServidor2\bin\Debug\ClienteServidor2.pdb
+c:\users\oca15_000\documents\visual studio 2010\Projects\ClienteServidor2\ClienteServidor2\obj\x86\Debug\ClienteServidor2.exe
+c:\users\oca15_000\documents\visual studio 2010\Projects\ClienteServidor2\ClienteServidor2\obj\x86\Debug\ClienteServidor2.pdb
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ClienteServidor2\ClienteServidor2\bin\Debug\ClienteServidor2.exe.config
