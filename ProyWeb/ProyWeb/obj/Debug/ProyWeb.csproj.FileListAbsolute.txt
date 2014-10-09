@@ -1,0 +1,11 @@
+c:\users\oca15_000\documents\visual studio 2010\Projects\ProyWeb\ProyWeb\bin\ProyWeb.dll
+c:\users\oca15_000\documents\visual studio 2010\Projects\ProyWeb\ProyWeb\bin\ProyWeb.pdb
+c:\users\oca15_000\documents\visual studio 2010\Projects\ProyWeb\ProyWeb\obj\Debug\ProyWeb.dll
+c:\users\oca15_000\documents\visual studio 2010\Projects\ProyWeb\ProyWeb\obj\Debug\ProyWeb.pdb
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ProyWeb\ProyWeb\bin\mysql.data.dll
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ProyWeb\ProyWeb\bin\mysql.data.entity.dll
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ProyWeb\ProyWeb\bin\mysql.visualstudio.dll
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ProyWeb\ProyWeb\bin\mysql.web.dll
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ProyWeb\ProyWeb\bin\Repositorio.dll
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ProyWeb\ProyWeb\bin\Repositorio.pdb
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ProyWeb\ProyWeb\obj\Debug\ProyWeb.csprojResolveAssemblyReference.cache

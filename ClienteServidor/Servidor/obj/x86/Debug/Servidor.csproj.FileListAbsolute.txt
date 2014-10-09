@@ -1,0 +1,6 @@
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Servidor.exe
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Servidor.pdb
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\Servidor.exe
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\Servidor.pdb
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ClienteServidor\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ClienteServidor\Servidor\obj\x86\Debug\Servidor.pdb
