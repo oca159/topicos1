@@ -1,0 +1,10 @@
+c:\users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.exe
+c:\users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.pdb
+c:\users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\obj\x86\Debug\NavegadorWeb.Form1.resources
+c:\users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\obj\x86\Debug\NavegadorWeb.Properties.Resources.resources
+c:\users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\obj\x86\Debug\NavegadorWeb.csproj.GenerateResource.Cache
+c:\users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\obj\x86\Debug\NavegadorWeb.exe
+c:\users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\obj\x86\Debug\NavegadorWeb.pdb
+c:\users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\bin\Debug\NavegadorWeb.exe.config
+C:\Users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\obj\x86\Debug\NavegadorWeb.csprojResolveAssemblyReference.cache
+C:\Users\oca15_000\documents\visual studio 2010\Projects\NavegadorWeb\NavegadorWeb\obj\x86\Debug\NavegadorWeb.Lista_links.resources
