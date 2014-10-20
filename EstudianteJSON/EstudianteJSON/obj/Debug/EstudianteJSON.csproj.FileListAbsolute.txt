@@ -1,0 +1,4 @@
+c:\users\oca15_000\documents\visual studio 2010\Projects\EstudianteJSON\EstudianteJSON\bin\EstudianteJSON.dll
+c:\users\oca15_000\documents\visual studio 2010\Projects\EstudianteJSON\EstudianteJSON\bin\EstudianteJSON.pdb
+c:\users\oca15_000\documents\visual studio 2010\Projects\EstudianteJSON\EstudianteJSON\obj\Debug\EstudianteJSON.dll
+c:\users\oca15_000\documents\visual studio 2010\Projects\EstudianteJSON\EstudianteJSON\obj\Debug\EstudianteJSON.pdb
