@@ -1,0 +1,5 @@
+c:\users\oca15_000\documents\visual studio 2010\Projects\ReflexionEstudiante\ReflexionEstudiante\bin\Debug\ReflexionEstudiante.exe
+c:\users\oca15_000\documents\visual studio 2010\Projects\ReflexionEstudiante\ReflexionEstudiante\bin\Debug\ReflexionEstudiante.pdb
+c:\users\oca15_000\documents\visual studio 2010\Projects\ReflexionEstudiante\ReflexionEstudiante\obj\x86\Debug\ReflexionEstudiante.exe
+c:\users\oca15_000\documents\visual studio 2010\Projects\ReflexionEstudiante\ReflexionEstudiante\obj\x86\Debug\ReflexionEstudiante.pdb
+C:\Users\oca15_000\Documents\Visual Studio 2010\Projects\ReflexionEstudiante\ReflexionEstudiante\obj\x86\Debug\ReflexionEstudiante.csprojResolveAssemblyReference.cache
