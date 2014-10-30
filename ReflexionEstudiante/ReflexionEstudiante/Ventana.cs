@@ -39,7 +39,23 @@ namespace ReflexionEstudiante
             Type[] types = asm.GetTypes();
             var estudiante = types.GetValue(1);
             List<string> tipos = new List<string>();
+            tipos.Clear();
             Button receptor = (Button)sender;
+            Type persona = asm.GetType("RepositorioEstudiantes."+receptor.Text);
+            ConstructorInfo personaConstructor = null;
+            List<TextBox> campos = new List<TextBox>();
+            campos.Clear();
+            Object obj = null;
+            if (receptor.Text == "Estudiante")
+            {
+                obj = Activator.CreateInstance(persona);
+                personaConstructor = persona.GetConstructor(new[] { typeof(string), typeof(string), typeof(string), typeof(int), typeof(string), typeof(string) });
+                
+            }
+                
+
+
+
             foreach (Type t in types)
             {
                 MemberInfo[] po = t.GetMembers();
@@ -76,6 +92,7 @@ namespace ReflexionEstudiante
                                     t1.AutoSize = true;
                                     t1.Visible = true;
                                     t1.Name = "T" + s;
+                                    campos.Add(t1);
                                     f1.Controls.Add(t1);
 
                                     i = i + 25;
@@ -92,6 +109,19 @@ namespace ReflexionEstudiante
                     } //fin del if de estudiante
                 }//fin del foreach que itera sobre la informacion de los miembros de las clases
             }//fin del foreach que itera sobre los tipos de la dll
+            List<object> datos = new List<object>();
+            if (receptor.Text == "Estudiante")
+            {
+                foreach (var t in campos)
+                {
+                    TextBox n = (TextBox) t;
+                    datos.Add(n.Text);
+
+                }
+                //object personaObject = personaConstructor.Invoke(obj, datos.ToArray());
+                //MethodInfo personaMethod = persona.GetMethod("");
+            }
+   
 
             //Boton para agregar estudiantes
             Button bAgregar = new Button();
