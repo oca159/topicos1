@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{2}
+\contentsline {section}{\numberline {2}Propuesta}{3}
+\contentsline {subsection}{\numberline {2.1}Arquitectura General del Sistema}{3}
+\contentsline {section}{\numberline {3}Diagrama de Componentes}{4}
+\contentsline {subsection}{\numberline {3.1}Proceso de Recuperaci\IeC {\'o}n de Informaci\IeC {\'o}n}{5}
+\contentsline {section}{\numberline {4}Modelo Relacional de la Base de Datos}{6}
+\contentsline {subsection}{\numberline {4.1}Avance de la Plataforma (Implementaci\IeC {\'o}n, Servicios, etc...)}{7}

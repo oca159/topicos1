@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs"
+    Inherits="ProyectoMetroMX.Principal" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'
+        name='viewport' />
+    <title>Red Metro Equipo 1</title>
+    <link href="app/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="app/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="app/css/AdminLTE.css" rel="stylesheet" type="text/css" />
+    <link href="app/css/ionicons.min.css" rel="stylesheet" type="text/css" />
+    <link href="app/css/datatables/dataTables.bootstrap.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="app/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    </asp:ContentPlaceHolder>
+</head>
+<body class="skin-blue">
+    <header class="header">
+            <a href="Default.aspx" class="logo">
+                <!-- Add the class icon to your logo image or logo icon to add the margining -->
+                Red Metro MX                
+            </a>
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top" role="navigation" />
+                
+               
+               
+            </nav>
+        </header>
+    <div class="wrapper row-offcanvas row-offcanvas-left">
+        <!-- Left side column. contains the logo and sidebar -->
+        <aside class="left-side sidebar-offcanvas" />
+        <!-- sidebar: style can be found in sidebar.less -->
+        <section class="sidebar" />
+        <!-- sidebar menu: : style can be found in sidebar.less -->
+        <ul class="sidebar-menu">
+            <li class="treeview"><a href="#"><i class="fa fa-road"></i><span>Rutas</span> <i
+                class="fa fa-angle-left pull-right"></i></a>
+                <ul class="treeview-menu">
+                    <li><a href="Rutas.aspx"><i class="fa fa-angle-double-right"></i>Mapa</a></li>
+                    <li><a href="InformacionGeneral.aspx"><i class="fa fa-angle-double-right"></i>Información
+                        General</a></li>
+                </ul>
+            </li>
+            <li><a href="Horarios.aspx"><i class="fa fa-clock-o"></i><span>Horarios</span>
+            </a></li>
+        </ul>
+        </section> </aside>
+        <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        </form>
+    </div>
+</body>
+</html>

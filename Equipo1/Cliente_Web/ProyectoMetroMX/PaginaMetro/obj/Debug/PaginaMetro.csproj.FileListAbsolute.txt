@@ -1,0 +1,4 @@
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ProyectoMetroMX\PaginaMetro\bin\Debug\PaginaMetro.dll
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ProyectoMetroMX\PaginaMetro\bin\Debug\PaginaMetro.pdb
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ProyectoMetroMX\PaginaMetro\obj\Debug\PaginaMetro.dll
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ProyectoMetroMX\PaginaMetro\obj\Debug\PaginaMetro.pdb

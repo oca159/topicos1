@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/WebApplicationPath_deploy" />
+  <setParameter name="ApplicationServices-Web.config Connection String" value="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnetdb.mdf;User Instance=true" />
+  <setParameter name="equipo1Entities-Web.config Connection String" value="metadata=res://*/Rutas.csdl|res://*/Rutas.ssdl|res://*/Rutas.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=qcv5yant08.database.windows.net;initial catalog=equipo1;persist security info=True;user id=tsci;multipleactiveresultsets=True;App=EntityFramework&quot;" />
+</parameters>

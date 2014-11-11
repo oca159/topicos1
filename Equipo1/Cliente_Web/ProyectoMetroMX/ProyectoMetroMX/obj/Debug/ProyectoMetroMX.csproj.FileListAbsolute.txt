@@ -1,0 +1,4 @@
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ProyectoMetroMX\ProyectoMetroMX\bin\ProyectoMetroMX.dll
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ProyectoMetroMX\ProyectoMetroMX\bin\ProyectoMetroMX.pdb
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ProyectoMetroMX\ProyectoMetroMX\obj\Debug\ProyectoMetroMX.dll
+C:\Users\oca15_000\documents\visual studio 2010\Projects\ProyectoMetroMX\ProyectoMetroMX\obj\Debug\ProyectoMetroMX.pdb

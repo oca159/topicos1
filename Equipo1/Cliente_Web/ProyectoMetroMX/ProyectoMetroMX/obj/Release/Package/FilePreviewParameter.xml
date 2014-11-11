@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="equipo1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\oca15_000\\documents\\visual\ studio\ 2010\\Projects\\ProyectoMetroMX\\ProyectoMetroMX\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\oca15_000\\documents\\visual\ studio\ 2010\\Projects\\ProyectoMetroMX\\ProyectoMetroMX\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

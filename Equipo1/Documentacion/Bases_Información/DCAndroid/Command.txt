@@ -1,0 +1,4 @@
+"C:\Program Files\Java\jre7\bin\keytool" -printcert -file 
+
+
+dex2jar\d2j-dex2jar 

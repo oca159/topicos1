@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="equipo1ModelStoreContainer" CdmEntityContainer="equipo1Entities">
+    <EntitySetMapping Name="horarios">
+      <EntityTypeMapping TypeName="equipo1Model.horarios">
+        <MappingFragment StoreEntitySet="horarios">
+          <ScalarProperty Name="idHorarios" ColumnName="idHorarios" />
+          <ScalarProperty Name="dia" ColumnName="dia" />
+          <ScalarProperty Name="hInicio" ColumnName="hInicio" />
+          <ScalarProperty Name="hFin" ColumnName="hFin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rutas">
+      <EntityTypeMapping TypeName="equipo1Model.rutas">
+        <MappingFragment StoreEntitySet="rutas">
+          <ScalarProperty Name="idRutas" ColumnName="idRutas" />
+          <ScalarProperty Name="numRuta" ColumnName="numRuta" />
+          <ScalarProperty Name="linea" ColumnName="linea" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="latitud" ColumnName="latitud" />
+          <ScalarProperty Name="longitud" ColumnName="longitud" />
+          <ScalarProperty Name="afluencia" ColumnName="afluencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

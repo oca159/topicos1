@@ -1,0 +1,4 @@
+c:\users\alfonso\documents\visual studio 2010\Projects\WebApplicationPath\WebApplicationPath\bin\WebApplicationPath.dll
+c:\users\alfonso\documents\visual studio 2010\Projects\WebApplicationPath\WebApplicationPath\bin\WebApplicationPath.pdb
+c:\users\alfonso\documents\visual studio 2010\Projects\WebApplicationPath\WebApplicationPath\obj\Debug\WebApplicationPath.dll
+c:\users\alfonso\documents\visual studio 2010\Projects\WebApplicationPath\WebApplicationPath\obj\Debug\WebApplicationPath.pdb

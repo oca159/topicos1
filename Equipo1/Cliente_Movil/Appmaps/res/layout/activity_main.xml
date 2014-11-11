@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+	<LinearLayout 
+	    android:id="@+id/linearLayout1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_margin="5dp"
+		android:orientation="vertical">
+    
+	     <EditText
+	        android:id="@+id/tOrigen"
+	        android:layout_width="200dp"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:layout_marginBottom="5dp"
+	        android:layout_marginTop="150dp"
+	        android:hint="@string/title_editTextHind_Origen" >
+		</EditText>
+	    <EditText
+	        android:id="@+id/tDestino"
+	        android:layout_width="200dp"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_horizontal"
+	        android:layout_marginBottom="10dp"
+	        android:layout_marginTop="5dp"
+	        android:hint="@string/title_editTextHind_Destino" >
+		</EditText>
+	    <Button
+			android:id="@+id/bCalcular"
+			android:layout_width="200dp"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_horizontal"
+			android:text="@string/title_bCalcular" >
+	       
+	   </Button>
+    
+	</LinearLayout>
+   
+</LinearLayout>

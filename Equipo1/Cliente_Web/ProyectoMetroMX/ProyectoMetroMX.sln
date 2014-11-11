@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoMetroMX", "ProyectoMetroMX\ProyectoMetroMX.csproj", "{A58BE569-3719-41F3-9F34-AB954B755DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginaMetro", "PaginaMetro\PaginaMetro.csproj", "{C1B44102-832B-446F-8BF9-C0F60EA3AFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A58BE569-3719-41F3-9F34-AB954B755DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58BE569-3719-41F3-9F34-AB954B755DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58BE569-3719-41F3-9F34-AB954B755DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58BE569-3719-41F3-9F34-AB954B755DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B44102-832B-446F-8BF9-C0F60EA3AFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B44102-832B-446F-8BF9-C0F60EA3AFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B44102-832B-446F-8BF9-C0F60EA3AFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B44102-832B-446F-8BF9-C0F60EA3AFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

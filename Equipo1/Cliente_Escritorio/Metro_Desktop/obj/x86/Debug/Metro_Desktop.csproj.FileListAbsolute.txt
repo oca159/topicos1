@@ -1,0 +1,15 @@
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\obj\x86\Debug\Metro_Desktop.Properties.Resources.resources
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\obj\x86\Debug\Metro_Desktop.csproj.GenerateResource.Cache
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\Metro_Desktop.exe.config
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\Metro_Desktop.exe
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\Metro_Desktop.pdb
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\obj\x86\Debug\Metro_Desktop.exe
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\obj\x86\Debug\Metro_Desktop.pdb
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\Newtonsoft.Json.dll
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\obj\x86\Debug\Metro_Desktop.Mapa.resources
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\BSE.Windows.Forms.dll
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\GMap.NET.Core.dll
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\GMap.NET.Core.xml
+c:\users\shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Shaiduck\documents\visual studio 2010\Projects\Metro_Desktop\Metro_Desktop\obj\x86\Debug\Metro_Desktop.csprojResolveAssemblyReference.cache

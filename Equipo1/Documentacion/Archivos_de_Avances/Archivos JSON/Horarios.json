@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'RedMetro'
+// RedMetro.Horarios
+
+[{"idHorarios": 1,"dia": "Lunes","hInicio": 5,"hFin": 24}, {"idHorarios": 2,"dia": "Martes","hInicio": 5,"hFin": 24}, {"idHorarios": 3,"dia": "Miercoles","hInicio": 5,"hFin": 24}, {"idHorarios": 4,"dia": "Jueves","hInicio": 5,"hFin": 24}, {"idHorarios": 5,"dia": "Viernes","hInicio": 5,"hFin": 24}, {"idHorarios": 6,"dia": "Sabados","hInicio": 6,"hFin": 24}, {"idHorarios": 7,"dia": "Domingos","hInicio": 7,"hFin": 24}]
